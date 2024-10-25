@@ -1,9 +1,7 @@
-## Select Awards & Honor
+## Select Awards & Honour
 
 <ul style="margin:0 0 5px;">
-  <li>National First Prize, China Student Computer Design Competition(VR/AR Interaction Track)</li>
-  <li>Merit Student of Beijing(Top 1%)</li>
-  <li>Outstanding gratuate of Beijing(Top 1%)</li>
-  <li>Bachelor’s Degree with Honours, BJUT(Top 5%)</li>
-  <li>First-grade Academic Scholarship, BJUT(Top 5%)</li>
+  <li>Outstanding Student Leader of Jiangsu Province, 2023-2024</li>
+  <li>IEEE Student Member, 2023-2024</li>
+  <li>Conscientious Student Leader of University, 2022-2023 & 2023-2024</li>
 </ul>

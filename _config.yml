@@ -1,8 +1,8 @@
 # Basic Information 
-title: Ziyi Cheng
+title: Zichao Cong
 position: Graduate Student
 affiliation: the University of Manchester
-email: ziyi.cheng@student.manchester.ac.uk
+email: zichao.cong@postgrad.manchester.ac.uk
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -13,14 +13,14 @@ canonical: https://minimal-light-theme.yliu.me/
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: 
-cv_link: assets/files/CV_Ziyi_Cheng.pdf
-github_link: https://github.com/ziyicheng427
-linkedin: https://www.linkedin.com/in/ziyi-cheng-537535246
+cv_link: assets/files/CV_ZichaoCong.pdf
+github_link: https://github.com/LeonardCong
+linkedin: https://www.linkedin.com/in/zichao-cong-66876b216/
 twitter: 
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/ziyi_cheng_avatar.jpg
+avatar: ./assets/img/zichaocong_avatar.jpg
 favicon: 
 favicon_dark:
 
