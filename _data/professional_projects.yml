@@ -8,14 +8,6 @@ main:
     code: 
     image: ./assets/img/portable_pentest_tool.jpg
 
-  - title: Research towards the MAVLink Protocol
-    authors: <strong>Zichao Cong</strong>
-    conference_short: Cybersecurity
-    conference: A study on the MAVLink protocol, which is a lightweight communication protocol for small unmanned aircraft systems (UAS) to communicate with the ground control station (GCS).
-    pdf: ./assets/files/mavlink_research.pdf
-    code: 
-    image: ./assets/img/logo_mavlink_small.png
-
   - title: Final Year Project - Security Investigation towards MAVLink Protocol for UAV
     authors: <strong>Zichao Cong</strong>
     conference_short: Cybersecurity

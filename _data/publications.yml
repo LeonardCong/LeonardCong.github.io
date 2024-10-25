@@ -1,6 +1,12 @@
 main:
 
-  - title: No publications yet, but would like to add in the future.
+  - title: Research towards the MAVLink Protocol
+    authors: <strong>Zichao Cong</strong>
+    conference_short: Cybersecurity
+    conference: A study on the MAVLink protocol, which is a lightweight communication protocol for small unmanned aircraft systems (UAS) to communicate with the ground control station (GCS).
+    pdf: ./assets/files/mavlink_research.pdf
+    code: 
+    image: ./assets/img/logo_mavlink_small.png
 #   - title: Research on image compression algorithms based on deep learning
 #     authors: <strong>Ziyi Cheng</strong>
 #     conference_short: Image Processing/ML
