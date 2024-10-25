@@ -4,15 +4,16 @@ layout: homepage
 
 ## About Me
 
-I am a graduate student studying MSc Robotics at the University of Manchester. (Sep. 2024 - Expect Sep. 2025)
+I am a graduate student studying MSc Robotics at the University of Manchester. (Sep. 2024 - Expect Sep. 2025)  
 I was awarded the degree of BSc with Honours in Information and Computing Science (First Class) from the University of Liverpool and Xi'an Jiaotong-Liverpool University. (Sep. 2020 - Jul. 2024)
 
 ## Research Interests
 
 - **Robotics** 
 - **Unmanned Aerial Vehicles**
-- **Cyber Security**
+- **Human-Robot Interaction**
 - **Machine Learning**
+- **Cybersecurity**
 
 {% include_relative _includes/publications.md %}
 
