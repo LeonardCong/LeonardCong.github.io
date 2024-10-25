@@ -17,6 +17,7 @@ I was awarded the degree of BSc with Honours in Information and Computing Scienc
 
 {% include_relative _includes/publications.md %}
 
+- **This is a template section for Research Experiences.**
 
 {% include_relative _includes/professional_projects.md %}
 
