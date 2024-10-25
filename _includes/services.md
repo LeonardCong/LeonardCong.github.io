@@ -5,8 +5,3 @@
   <li>IEEE Student Member, 2023-2024</li>
   <li>Conscientious Student Leader of University, 2022-2023 & 2023-2024</li>
 </ul>
-
-
-## Download Awards & Certificates
-
-<a href="/assets/files/attachment.pdf" class="button">Download</a>
